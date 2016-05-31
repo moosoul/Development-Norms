@@ -39,16 +39,16 @@
  }
  */
 
-#pargma mark - System Delegate (系统代理)
+#pragma mark - System Delegate (系统代理)
 
 
-#pargma mark - Custom Delegate (自定义代理)
+#pragma mark - Custom Delegate (自定义代理)
 
 
 #pragma mark - IBActions (通过Xib连接的按钮点击)
 
 
-#pargma mark - event response (事件响应, notification写在这里)
+#pragma mark - event response (事件响应, notification写在这里)
 
 
 #pragma mark - Public Method (公有方法，会在头文件暴露在外部)
@@ -60,7 +60,7 @@
 #pragma mark - SuperClass (方法重载)
 
 
-#pargma mark - getters and setters (自定义访问器)
+#pragma mark - getters and setters (自定义访问器)
 
 
 

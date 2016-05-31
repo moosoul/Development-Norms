@@ -1,4 +1,7 @@
 ## Imba iOS 开发规范
+* Xcode 模板文件在当前路径的`/Xcode Templates/ObjC/`下面
+* 替换系统XCode模板的方法，`Application`下面右键`Xcode`显示包内容，路径为: `/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/Cocoa Touch Class.xctemplate
+`
 
 **宏的使用**
 
